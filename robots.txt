@@ -1,1 +1,1 @@
-Sitemap: https://nscalemodeller.com/sitemap.xml
+Sitemap: https://nscalemodeller.github.io/sitemap.xml
